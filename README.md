@@ -78,15 +78,9 @@ Aplicación Android para automatización y control de dispositivos mediante **ES
 
 **Tecnologías:** Kotlin · Jetpack Compose · Firebase
 
+[Ver repositorio →](https://github.com/KevinGRST/HouseControl)
 ---
 
-### ⚡ Rate Limiting API
-
-Microservicio desarrollado en **Rust** para controlar y limitar el número de peticiones realizadas a una API.
-
-**Tecnologías:** Rust · APIs · Rate Limiting
-
----
 
 ### 💊 Farmacia
 
