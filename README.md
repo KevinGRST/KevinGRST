@@ -79,6 +79,7 @@ Aplicación Android para automatización y control de dispositivos mediante **ES
 **Tecnologías:** Kotlin · Jetpack Compose · Firebase
 
 [Ver repositorio →](https://github.com/KevinGRST/HouseControl)
+
 ---
 
 
